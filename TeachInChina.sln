@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachInChina", "TeachInChina\TeachInChina.csproj", "{813CD956-D93B-439A-AD63-91333D61A671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachInChina.Tests", "TeachInChina.Tests\TeachInChina.Tests.csproj", "{0C87E54E-6252-4EFB-83B7-D1FA974909D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813CD956-D93B-439A-AD63-91333D61A671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813CD956-D93B-439A-AD63-91333D61A671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813CD956-D93B-439A-AD63-91333D61A671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813CD956-D93B-439A-AD63-91333D61A671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C87E54E-6252-4EFB-83B7-D1FA974909D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C87E54E-6252-4EFB-83B7-D1FA974909D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C87E54E-6252-4EFB-83B7-D1FA974909D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C87E54E-6252-4EFB-83B7-D1FA974909D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
